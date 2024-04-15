@@ -1,0 +1,22 @@
+.page2 {
+  height: 100vh;
+}
+
+.page2 section {
+  border: 1px solid black;
+  width: 65vw;
+  height: 90vh;
+  overflow: scroll;
+  border-radius: 10px;
+  background: #f5f5f5;
+}
+.page2 section::-webkit-scrollbar {
+  display: none;
+}
+.links-button {
+  border: none;
+  color: rgb(46, 46, 253);
+}
+.disable {
+  display: none;
+}

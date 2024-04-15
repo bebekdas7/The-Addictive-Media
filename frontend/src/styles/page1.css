@@ -1,0 +1,39 @@
+.page1-main {
+  border: 1px solid orange;
+  height: 100vh;
+}
+
+.slide1 {
+  border: 1px solid black;
+  /* height: 60vh; */
+  width: 55vw;
+  border-radius: 10px;
+  padding: 1rem;
+  background: #f5f5f5;
+  position: relative;
+}
+.slide1 h5 {
+  font-size: 1.4rem;
+}
+.dob-select {
+  border: 1px solid grey;
+  height: 9vh;
+  border-radius: 6px;
+}
+
+
+.slide2 {
+  border: 1px solid black;
+  /* height: 60vh; */
+  width: 55vw;
+  border-radius: 10px;
+  padding: 1rem;
+  background: #f5f5f5;
+}
+.slide2 h5 {
+  font-size: 1.4rem;
+}
+
+.disable {
+  display: none !important;
+}
